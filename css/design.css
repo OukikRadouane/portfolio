@@ -1,0 +1,53 @@
+#monPhoto{
+    width:100px;
+    height:100px;
+    border-radius: 50%;
+}
+body{
+    background-color: rgb(27, 26, 26);
+    background-image: url(icons/background2.svg);
+    color: white;
+}
+table{
+    width: 100%;
+    border: solid 0.09px gray;
+}
+a{
+    color: antiquewhite;
+    font-size: large;
+    text-decoration: none;
+    color: rgb(155, 155, 223);
+  
+}
+#gmail{
+    width: 1cm;
+    
+}
+#div1{
+    display: flex;
+
+}
+#g{
+    padding-top: 5pt;
+}
+#h21{
+    padding-bottom: 8px;
+  margin-bottom: 8px;
+  border-bottom: solid 1px #e1e1e1;
+}
+#ul1 {
+    display: flex;
+    transform: translate(200px,-160px);
+}
+li{
+    margin: 10px;
+    cursor: pointer;
+}
+#pres{
+    color: blueviolet;
+}
+#pt{
+    margin: 1cm;
+    text-align: center;
+    color:#fdd;
+}
